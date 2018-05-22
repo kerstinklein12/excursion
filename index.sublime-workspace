@@ -1,0 +1,180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Kerstin/Desktop/projects/excursion/index.html",
+		"/Users/Kerstin/Desktop/projects/Dasmoto/index.html",
+		"/Users/Kerstin/Desktop/projects/Dasmoto/resources/style.css",
+		"/Users/Kerstin/Desktop/projects/DevProject/resources/css/index.css",
+		"/Users/Kerstin/Desktop/projects/DevProject/index.html",
+		"/Users/Kerstin/Desktop/projects/index.html",
+		"/Users/Kerstin/Desktop/index.html",
+		"/Users/Kerstin/Desktop/gruenerpunkt.svg",
+		"/Users/Kerstin/Desktop/gruen.svg",
+		"/Users/Kerstin/Desktop/DNP/171103_App-Entwicklung/Content/Logos_final_svg_groessenverhältnis/Unternehmen/HeinzGlas.svg",
+		"/Users/Kerstin/Downloads/Meilensteine nicht koloriert-01.svg",
+		"/Users/Kerstin/Desktop/SVG final/Forschung/BioBz.svg",
+		"/Users/Kerstin/Downloads/wetransfer-9480bc (1)/meilensteine.svg",
+		"/Users/Kerstin/Downloads/wetransfer-a98b87 2/Empore Foyer 02.svg",
+		"/Users/Kerstin/Downloads/wetransfer-a98b87/Saal Teneriffa-01.svg",
+		"/Users/Kerstin/Desktop/Website/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
